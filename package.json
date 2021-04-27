@@ -1,0 +1,15 @@
+{
+  "name": "axios maxContentLength bug",
+  "version": "0.1.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {}
+}
